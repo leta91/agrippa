@@ -16,5 +16,20 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 - `style.css` 
 - `templates` folder :open_file_folder: and a file inside of it named `index.html` (this file represents the default/fallback template and it will allow WordPress to recognize it as a block theme)  
 
+3. :white_check_mark: add `screenshot.png` as the screenshot image for `"Agrippa"` Theme :framed_picture:
+
+4. :white_check_mark: add `functions.php` within `agrippa` theme folder
+
+5. :white_check_mark: add `theme.json` within `agrippa` theme folder **(for Global Settings and Styles)**
+
+6. :white_check_mark: add `assets` within `agrippa` theme folder **(for additional CSS, JavaScript and images)**
+
+:grey_exclamation: Important Note </br>
+`templates` 📂 represents the website structure on the front-end
+
+📓 Documentation [^1]
+[^1]: https://developer.wordpress.org/themes/core-concepts/theme-structure/
+
+
 
 
