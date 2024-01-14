@@ -70,9 +70,10 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 4. WordPress `theme.json` 
 <p>&nbsp;</p>
 
-##### 📓 Documentation [^1] [^2]
+##### 📓 Documentation [^1] [^2] [^3]
 [^1]: https://developer.wordpress.org/themes/core-concepts/theme-structure/
 [^2]: https://i0.wp.com/developer.wordpress.org/files/2023/10/template-hierarchy-scaled.jpeg?ssl=1
+[^3]: https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-living/
 
 
 
