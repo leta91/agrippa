@@ -71,7 +71,9 @@ When `settings.appearanceTools` is enabled, WordPress can sometimes automaticall
 1. `Appearance > Editor` 🥇
 2. Child theme `theme.json` 🥈
 3. Theme `theme.json` 🥉
-4. WordPress `theme.json` 
+4. WordPress `theme.json`
+
+- to undo `git add` ➡️ `git reset`or `git reset <file>`
 <p>&nbsp;</p>
 
 ##### 📓 Documentation [^1] [^2] [^3]
