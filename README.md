@@ -73,7 +73,7 @@ When `settings.appearanceTools` is enabled, WordPress can sometimes automaticall
 3. Theme `theme.json` 🥉
 4. WordPress `theme.json`
 
-- to undo `git add` ➡️ `git reset`or `git reset <file>`
+- to undo `git add` before using the command `git commit` ➡️ `git reset`or `git reset <file>`
 <p>&nbsp;</p>
 
 ##### 📓 Documentation [^1] [^2] [^3]
