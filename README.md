@@ -37,7 +37,6 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 9. ✅ add code in `functions.php` to load `style.css` and create the option for it to be loaded in the editor
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 #### :books: Important Notes </br>
 -`templates` 📂 represents the website structure on the front-end
@@ -60,8 +59,6 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 
 - to find out the configuration details of the WordPress site (such as version of PHP, server, database etc.), go to `WP dashboard > Tools > Site Health > Info`
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-
 
 ##### 📓 Documentation [^1] [^2]
 [^1]: https://developer.wordpress.org/themes/core-concepts/theme-structure/
