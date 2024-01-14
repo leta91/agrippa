@@ -62,6 +62,8 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 - to find out the configuration details of the WordPress site (such as version of PHP, server, database etc.), go to `WP dashboard > Tools > Site Health > Info`
 
 - `theme.json` tells WordPress what settings you want to enable, how to style specific elements and blocks, and which templates and template parts to register. The configuration  for `Settings` and `Styles`, for example, can be found in the page editor (WP admin) and they are represented by two symbols on the top-right corner
+
+- Changes made through `Appearance > Editor` take *higher priority* than the theme `theme.json`
 <p>&nbsp;</p>
 
 ##### 📓 Documentation [^1] [^2]
