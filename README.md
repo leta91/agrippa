@@ -55,7 +55,7 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 1. work directly within the WordPress admin and its visual editor
 2. migrate the block markup from the editor to your template part files as described in  [***Introduction to Templates***](https://developer.wordpress.org/themes/templates/introduction-to-templates/)
 
-- Remember that if you save the parts from `Appearance > Editor > Patterns > Template Parts`, they will be *stored in the database and will overrule any templates in your theme*
+- Remember that if you save the parts from `Appearance > Editor > Patterns > Template Parts`, they will be **stored in the database and will overrule any templates in your theme**
 
 - avoid closing `?>` PHP tags at the end of files with only PHP code. Otherwise, it will create unwanted whitespace and it will output errors in the code  
 
@@ -63,7 +63,11 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 
 - `theme.json` tells WordPress what settings you want to enable, how to style specific elements and blocks, and which templates and template parts to register. The configuration  for `Settings` and `Styles`, for example, can be found in the page editor (WP admin) and they are represented by two symbols on the top-right corner
 
-- Changes made through `Appearance > Editor` take *higher priority* than the theme `theme.json`
+- Changes for `Settings` and `Styles` follow this hierarchy:</br>
+1. `Appearance > Editor` 🥇
+2. Child theme `theme.json` 🥈
+3. Theme `theme.json` 🥉
+4. WordPress `theme.json` 
 <p>&nbsp;</p>
 
 ##### 📓 Documentation [^1] [^2]
