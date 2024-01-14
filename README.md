@@ -36,7 +36,11 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 
 9. ✅ add code in `functions.php` to load `style.css` and create the option for it to be loaded in the editor
 
-10. ✅ add initial code in `theme.json` 
+10. ✅ add settings in `theme.json` that equal to:</br>
+`"settings": {
+		"appearanceTools": true
+	}`</br>
+When `settings.appearanceTools` is enabled, WordPress can sometimes automatically enable new features. For this reason, I prefer to leave this option disabled so I can modify these options individually
 
 <p>&nbsp;</p>
 
