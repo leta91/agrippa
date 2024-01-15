@@ -76,11 +76,12 @@ When `settings.appearanceTools` is enabled, WordPress can sometimes automaticall
 - to undo `git add` before using the command `git commit` ➡️ `git reset`or `git reset <file>`
 <p>&nbsp;</p>
 
-##### 📓 Documentation [^1] [^2] [^3] [^4]
+##### 📓 Documentation [^1] [^2] [^3] [^4] [^5]
 [^1]: https://developer.wordpress.org/themes/core-concepts/theme-structure/
 [^2]: https://i0.wp.com/developer.wordpress.org/files/2023/10/template-hierarchy-scaled.jpeg?ssl=1
 [^3]: https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-living/
 [^4]: https://developer.wordpress.org/themes/global-settings-and-styles/settings/
+[^5]: https://community.adobe.com/t5/adobe-fonts-discussions/how-do-you-download-font-files-for-wordpress-in-all-of-these-formats-please/m-p/11887471
 
 
 
