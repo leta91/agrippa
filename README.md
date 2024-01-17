@@ -42,6 +42,10 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 	}`</br>
 When `settings.appearanceTools` is enabled, WordPress can sometimes automatically enable new features. For this reason, I prefer to leave this option disabled so I can modify these options individually
 
+11. ✅ add the two *Adobe Fonts* I chose for ***"Agrippa"*** through the following steps:</br>
+- add `<link>` to the header section via the plugin [WPCode](https://wordpress.org/plugins/insert-headers-and-footers/) 🖱️. In this way, the Adobe Fonts will be applied on every page of ***"Agrippa"*** 
+- add their custom CSS on `style.css`
+
 <p>&nbsp;</p>
 
 #### :books: Important Notes </br>
@@ -76,12 +80,11 @@ When `settings.appearanceTools` is enabled, WordPress can sometimes automaticall
 - to undo `git add` before using the command `git commit` ➡️ `git reset`or `git reset <file>`
 <p>&nbsp;</p>
 
-##### 📓 Documentation [^1] [^2] [^3] [^4] [^5]
+##### 📓 Documentation [^1] [^2] [^3] [^4]
 [^1]: https://developer.wordpress.org/themes/core-concepts/theme-structure/
 [^2]: https://i0.wp.com/developer.wordpress.org/files/2023/10/template-hierarchy-scaled.jpeg?ssl=1
 [^3]: https://developer.wordpress.org/block-editor/reference-guides/theme-json-reference/theme-json-living/
 [^4]: https://developer.wordpress.org/themes/global-settings-and-styles/settings/
-[^5]: https://community.adobe.com/t5/adobe-fonts-discussions/how-do-you-download-font-files-for-wordpress-in-all-of-these-formats-please/m-p/11887471
 
 
 
