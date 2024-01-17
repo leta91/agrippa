@@ -12,3 +12,18 @@
  * License:           GNU General Public License v2.0 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  */
+
+
+ /* Add the styles for the two Adobe Fonts I chose for "Agrippa" Theme */
+
+ h1 , h2 , h3 , h4 , h5 , h6 {
+    font-family: "adobe-handwriting-ernie", sans-serif ;
+    font-weight: 400;
+    font-style: normal;
+ }
+
+ p , div {
+    font-family: "cormorant-garamond", serif;
+    font-weight: 500;
+    font-style: normal;
+ }
