@@ -1,0 +1,48 @@
+/*
+ * CSS for registered block styles.
+ * See inc/register-block-styles.php.
+ */
+
+/* Flat button */
+.is-style-agrippa-flat-button .wp-block-button__link,
+.is-style-agrippa-flat-button .wp-block-button__link:hover,
+.is-style-agrippa-flat-button .wp-block-button__link:focus,
+.is-style-agrippa-flat-button .wp-block-button__link:active,
+.is-style-agrippa-flat-button .wp-block-button__link:visited {
+	box-shadow: none;
+	border-radius: 0;
+	margin-top: initial;
+	margin-bottom: initial;
+}
+
+/* Box shadow */
+.is-style-agrippa-box-shadow {
+	box-shadow: var(--wp--preset--shadow--natural);
+}
+
+/* Lists */
+.is-style-agrippa-list-underline li {
+	border-bottom: 1px solid currentcolor;
+}
+
+.is-style-agrippa-list-underline ul {
+	border-top: 1px solid currentcolor;
+}
+
+.is-style-agrippa-list-underline ul li {
+	border: none;
+}
+
+details.is-style-agrippa-plus > summary {
+	list-style-type: "+ ";
+}
+
+details[open].is-style-agrippa-plus > summary {
+	list-style-type: "- ";
+}
+
+details.is-style-agrippa-plus > summary::marker {
+	font-weight: 700;
+	font-size: 1em;
+	font-family: var(--wp--preset--font-family--monospace);
+}
