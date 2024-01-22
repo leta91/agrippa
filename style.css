@@ -23,7 +23,131 @@
  }
 
  p , div {
-    font-family: "cormorant-garamond", serif;
-    font-weight: 500;
-    font-style: normal;
+   font-family: "cormorant-garamond", serif;
+   font-weight: 500;
+   font-style: normal;
  }
+
+ /* Styles intended only for the front.*/
+ 
+html {
+	scroll-behavior: smooth;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+
+	html {
+		scroll-behavior: auto;
+	}
+}
+
+body {
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}
+
+/*Customize font size of booking form */
+
+.bpa-front-tm--item-label , .bpa-front-module-heading , .el-row , .bpa-front-si__card-body--heading , .bpa-front-si-cb__specs-item {
+  font-weight: bold !important;
+}
+
+@media (min-width: 1200px){    
+  .bpa-front-module-heading
+  {
+      font-size: 24px !important;
+  }    
+  .bpa-tn__dropdown-menu .bpa-tn__dropdown-item a.bpa-tm__item,            
+  .bpa-front-form-control input,
+  .bpa-front-btn--primary span,
+  .bpa-cp-ma-table.el-table .bpa-cp-ma-cell-val,
+  .bpa-cp-ma-table.el-table td.el-table__cell .cell,    
+  .bpa-front-ma--pagination-wrapper .el-pager li,
+  .bpa-left__service-detail .bpa-sd__appointment-id,
+  .bpa-bd__item .bpa-item--val,
+  .bpa-ma-vac-sec-title,
+  .bpa-front-dcw__body-sub-title,
+  .bpa-vac-pd__item .bpa-vac-pd__label,
+  .bpa-vac-pd__item .bpa-vac-pd__val,
+  .bpa-front-ma--pagination-wrapper .btn-prev span,
+  .bpa-front-ma--pagination-wrapper .btn-next span{
+      font-size: 22px !important;               
+  }   
+  .bpa-left__service-detail .bpa-sd__appointment-title,
+  .bpa-front-dcw__body-title{
+      font-size: 24px !important;               
+  }
+  .bpa-cp-pd__title,
+  .bpa-front-btn__small,
+  .bpa-bd__item .bpa-item--label,
+  .bpa-cp-ma-table.el-table td.el-table__cell .bpa-ma-date-time-details .bpa-ma-dt__time-val,
+  .el-picker-panel__content .el-date-table th,
+  .el-picker-panel__content .el-date-table td span {
+      font-size: 24px !important;               
+  }
+  .bpa-front-tm--item-label {
+    font-size: 22px !important;
+  } 
+}
+
+@media (max-width: 1024px) {
+  .bpa-front-module-heading,
+  .bpa-left__service-detail .bpa-sd__appointment-title {
+      font-size: 22px !important;
+  }
+  .bpa-tn__dropdown-menu .bpa-tn__dropdown-item a.bpa-tm__item,
+  .el-table th.el-table__cell>.cell,
+  .bpa-cp-ma-table.el-table .bpa-cp-ma-cell-val,
+  .bpa-front-ma--pagination-wrapper .el-pager li,
+  .bpa-left__service-detail .bpa-sd__appointment-id,
+  .bpa-bd__item .bpa-item--label,
+  .bpa-ma-vac-sec-title,
+  .bpa-front-form-control {
+      font-size: 20px !important;
+  }
+  .bpa-cp-pd__title,
+  .bpa-bd__item .bpa-item--label,
+  .bpa-vac-pd__item .bpa-vac-pd__label,
+  .bpa-vac-pd__item .bpa-vac-pd__val,
+  .bpa-front-btn__small,
+  .bpa-cp-ma-table.el-table td.el-table__cell .bpa-ma-date-time-details .bpa-ma-dt__time-val {
+      font-size: 19px !important;    
+  }          
+}
+@media (max-width: 576px){
+  .bpa-front-module-heading
+  {
+      font-size: 23px !important;
+  }
+  .bpa-tn__dropdown-menu .bpa-tn__dropdown-item a.bpa-tm__item,
+  .bpa-mob-col__body .bpa-mob--service-title ,
+  .bpa-left__service-detail .bpa-sd__appointment-title,
+  .bpa-bd__item .bpa-item--label,
+  .bpa-bd__item .bpa-item--val,
+  .bpa-ma-vac-sec-title
+  {
+      font-size: 22px !important;
+  }
+  .bpa-mob--date-time-details .bpa-mob-dtd__date-val,
+  .bpa-mob--date-time-details .bpa-mob-dtd__time-val,
+  .bpa-left__service-detail .bpa-sd__appointment-id,
+  .bpa-vac-pd__item .bpa-vac-pd__label,
+  .bpa-vac-pd__item .bpa-vac-pd__val,
+  .bpa-front-btn__small {
+      font-size: 21px !important;    
+  }
+  .bpa-front-ma--pagination-wrapper .btn-prev, 
+  .bpa-front-ma--pagination-wrapper .btn-next{
+      border-color: #CFD6E5 !important;
+  }
+  .bpa-front-ma--pagination-wrapper .btn-prev:hover,
+  .bpa-front-ma--pagination-wrapper .btn-next:hover{
+      background: #359487 !important;
+      border-color: #359487 !important;
+      
+  }
+  .bpa-front-ma--pagination-wrapper .btn-next:hover:after,
+  .bpa-front-ma--pagination-wrapper .btn-prev:hover:before {
+      background-color: #fff !important;
+  }
+}
