@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Functions and definitions
  *
@@ -108,6 +109,7 @@ add_filter( 'wp_check_filetype_and_ext', function($data, $file, $filename, $mime
 		  </style>';
   }
   add_action( 'admin_head', 'fix_svg' );
+
 
 
 
