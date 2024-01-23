@@ -4,7 +4,7 @@
 
 | WordPress version | Web Server version | PHP version | Database version |
 | ---               | ---                | ---         | ---              |
-| 6.4.2             | nginx 1.16.0       | 8.1.23      | MySQL 8.0.16     |
+| 6.4.2             | Apache 2.4.43      | 8.1.23      | MySQL 8.0.16     |
 
 The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 
