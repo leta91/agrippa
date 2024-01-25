@@ -8,7 +8,10 @@
 
 The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 
-### "Agrippa" Theme Development Step-By-Step:
+⚡ Inspiration
+I was inspired to title this project of mine after ***"Marcus Vipsanius Agrippa"*** , an important historical figure of Ancient Rome
+
+### :books: "Agrippa" Theme Development Step-By-Step:
 
 1. :white_check_mark: Within your local WordPress installation, go to `... > app > public > wp-content > themes` and add a new empty folder named `agrippa` :open_file_folder:
 
