@@ -8,7 +8,7 @@
 
 The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 
-⚡ Inspiration
+### ⚡ Inspiration
 I was inspired to title this project of mine after ***"Marcus Vipsanius Agrippa"*** , an important historical figure of Ancient Rome
 
 ### :books: "Agrippa" Theme Development Step-By-Step:
