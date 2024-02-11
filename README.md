@@ -8,6 +8,16 @@
 
 The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 
+## :toolbox: Tools I used to build ***"Agrippa"***: 
+
+- [LocalWP](https://localwp.com/)
+- WordPress
+- PHP
+- JSON
+- JavaScript
+- HTML
+- CSS
+
 ## :link: View Live
 ⚗️ **https://agrippa.letiziadimaio.com/**
 
