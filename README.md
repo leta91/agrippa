@@ -11,7 +11,6 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 ## :link: View Live
 ⚗️ **https://agrippa.letiziadimaio.com/**
 
-<p>&nbsp;</p>
 
 ## ⚡ Inspiration
 I was inspired to title this project of mine after ***"Marcus Vipsanius Agrippa"*** , an important historical figure of Ancient Rome
