@@ -13,6 +13,8 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 - [LocalWP](https://localwp.com/)
 - WordPress
 - PHP
+- Adobe Express
+- Adobe Fonts
 - JSON
 - JavaScript
 - HTML
