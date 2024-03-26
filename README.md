@@ -20,14 +20,34 @@ The ***"Agrippa"*** project uses a ***Block Theme*** for WordPress
 - HTML
 - CSS
 
-## :link: View Live
-⚗️ **https://agrippa.letiziadimaio.com/**
-
-
 ## ⚡ Inspiration
 I was inspired to title this project of mine after ***"Marcus Vipsanius Agrippa"*** , an important historical figure of Ancient Rome
 
+## Mockups on Desktop (1920 x 917 px) 💻
+![Mockup 1 on desktop](assets/img/mockups/agrippa1-desktop.JPG)
+![Mockup 2 on desktop](assets/img/mockups/agrippa2-desktop.JPG)
+![Mockup 3 on desktop](assets/img/mockups/agrippa3-desktop.JPG)
+![Mockup 4 on desktop](assets/img/mockups/agrippa4-desktop.JPG)
+![Mockup 5 on desktop](assets/img/mockups/agrippa5-desktop.JPG)
+![Mockup 5 on desktop](assets/img/mockups/agrippa6-desktop.JPG)
+![Mockup 6 on desktop](assets/img/mockups/agrippa7-desktop.JPG)
+![Mockup 7 on desktop](assets/img/mockups/agrippa8-desktop.JPG)
+
+
+## Mockups on Mobile (412 x 915 px) 📱
+![Mockup 1 on mobile](assets/img/mockups/agrippa1-mobile.JPG)
+![Mockup 2 on mobile](assets/img/mockups/agrippa2-mobile.JPG)
+![Mockup 3 on mobile](assets/img/mockups/agrippa3-mobile.JPG)
+![Mockup 4 on mobile](assets/img/mockups/agrippa4-mobile.JPG)
+![Mockup 5 on mobile](assets/img/mockups/agrippa5-mobile.JPG)
+![Mockup 6 on mobile](assets/img/mockups/agrippa6-mobile.JPG)
+![Mockup 7 on mobile](assets/img/mockups/agrippa7-mobile.JPG)
+![Mockup 8 on mobile](assets/img/mockups/agrippa8-mobile.JPG)
+![Mobile 9 on mobile](assets/img/mockups/agrippa9-mobile.JPG)
+![Mobile 10 on mobile](assets/img/mockups/agrippa10-mobile.JPG)
+![Mobile 11 on mobile](assets/img/mockups/agrippa11-mobile.JPG)
 <p>&nbsp;</p>
+
 
 ##### 📚 Documentation [^1] [^2] [^3] [^4] [^5] [^6] [^7]
 [^1]: https://developer.wordpress.org/themes/core-concepts/theme-structure/
